@@ -55,7 +55,7 @@ export default function Hero() {
       />
 
       <div className="relative z-10 section-padding max-w-5xl mx-auto text-center">
-        <div className="animate-fade-in">
+        <div className="animate-fade-in mt-8">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-900/80 border border-slate-800 text-sm text-slate-400 mb-8">
             <span className="w-2 h-2 rounded-full bg-primary-500 animate-pulse" />
             Available for opportunities
