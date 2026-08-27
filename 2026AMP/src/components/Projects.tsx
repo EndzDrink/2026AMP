@@ -21,8 +21,8 @@ const projects = [
     tags: ['React', 'TypeScript', 'Vite', 'Shadcn/ui', 'REST API'],
     icon: Shield,
     color: 'from-blue-500 to-blue-700',
-    github: '#',
-    live: '#',
+    github: 'https://github.com/EndzDrink/EA_STRATEGY_PORTAL',
+    live: 'https://easportal.netlify.app/',
     featured: true,
   },
   {
